@@ -1,0 +1,16 @@
+09:17:21.872 [main] INFO  framework.utils.Log - ++++++++++++++++++++++++++++++++++++++++++++++
+09:17:21.876 [main] INFO  framework.utils.Log - Start test case : loginTest
+09:17:21.884 [main] INFO  framework.utils.Log - Start time : 2024.07.08.09.17.21
+09:17:21.885 [main] INFO  framework.utils.Log - ++++++++++++++++++++++++++++++++++++++++++++++
+09:17:21.891 [main] INFO  framework.utils.Log - ++++++++++++++++++++++++++++++++++++++++++++++
+09:17:21.892 [main] INFO  framework.utils.Log - Skip test case : loginTest
+09:17:21.892 [main] INFO  framework.utils.Log - Skip time : 2024.07.08.09.17.21
+09:17:21.892 [main] INFO  framework.utils.Log - ++++++++++++++++++++++++++++++++++++++++++++++
+09:17:21.900 [main] INFO  framework.utils.Log - ++++++++++++++++++++++++++++++++++++++++++++++
+09:17:21.900 [main] INFO  framework.utils.Log - Start test case : invalidLoginTest
+09:17:21.900 [main] INFO  framework.utils.Log - Start time : 2024.07.08.09.17.21
+09:17:21.900 [main] INFO  framework.utils.Log - ++++++++++++++++++++++++++++++++++++++++++++++
+09:17:21.902 [main] INFO  framework.utils.Log - ++++++++++++++++++++++++++++++++++++++++++++++
+09:17:21.903 [main] INFO  framework.utils.Log - Skip test case : invalidLoginTest
+09:17:21.903 [main] INFO  framework.utils.Log - Skip time : 2024.07.08.09.17.21
+09:17:21.903 [main] INFO  framework.utils.Log - ++++++++++++++++++++++++++++++++++++++++++++++
